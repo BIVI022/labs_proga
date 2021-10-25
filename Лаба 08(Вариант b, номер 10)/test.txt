@@ -1,0 +1,16 @@
+{
+"tickets": [
+{
+	"cost": 100,
+	"train":{"number":1,"startTime": "Fri Oct 14 06:22:00 MSK 3921","seats":50,"finish":"Minsk"}
+},
+{
+	"cost": 110,
+	"train":{"number":2,"startTime": "Fri Oct 14 15:00:00 MSK 3921","seats":34,"finish":"Minsk"}
+},
+{
+	"cost": 90,
+	"train":{"number":3,"startTime": "Fri Oct 14 06:22:00 MSK 3921","seats":125,"finish":"Minsk"}
+}
+]
+}
