@@ -66,8 +66,6 @@ x = 0
 while(x < n):
     averageColumnValue = 0
     y = 0
-    # print(matrix[x][0], matrix[x][1], matrix[x][2])
-    # print(matrix[x][0], matrix[x][1], matrix[x][2], matrix[x][3], matrix[x][4], matrix[x][5])
 
     while(y < m):
         averageColumnValue += matrix[y][x]
